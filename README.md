@@ -3,7 +3,7 @@
 ## Introduction
 This project tests and compares performance of the **Quantum Fourier Transform (QFT)** algorithm across three types of quantum computing platforms:
 
-1. *Trapped-Ion Quantum Computer on IonQ platform**
+1. **Trapped-Ion Quantum Computer on IonQ platform**
 2. add text here
 3. add text here
 
